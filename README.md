@@ -2,4 +2,4 @@
  
 Personal travel album from a trip across South Korea and Japan. Photos, moments, and places worth remembering.
  
-**Live →** [shavellythenthen.github.io/seoul-to-tokyo](shavellythenthen.github.io/seoul-to-tokyo)
+**Live →** [https://shavellythen.github.io/seoul-to-tokyo/](https://shavellythen.github.io/seoul-to-tokyo/)
